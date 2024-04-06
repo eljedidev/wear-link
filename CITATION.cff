@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: elJedidev
+title: "Wear Link"
+date-released: 2024-04-06
+url: "https://github.com/eljedidev/wear-link"
