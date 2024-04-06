@@ -7,10 +7,10 @@ Herramienta de gestion de Wear Os para Windows
 - Seleccionar DPIs
 
 ## Instalación en Windows 10/11
-1. Descarga e instala [Autoit](https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.zip)
-2. Instala [git](https://git-scm.com/download/win).
-3. Descarga o clona el repositorio, por ejemplo, `git clone https://github.com/eljedidev/wear-link.git`
-4. Ejecuta `app.au3` o haz clic con el boton derecho Run Script
+!. Instala [git](https://git-scm.com/download/win).
+2. Descarga o clona el repositorio, por ejemplo, `git clone https://github.com/eljedidev/wear-link.git`
+3. Ejecuta `AutoIt3_x64.exe` de la carpeta AutoIt.
+4. Selecciona `app.au3` para ejecutarlo. 
 
 ## Tutorial de uso
 
