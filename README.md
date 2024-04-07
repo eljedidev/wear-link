@@ -8,9 +8,9 @@ Herramienta de gestion de Wear Os para Windows x64
 - Seleccionar DPIs
 
 ## Instalación Rapida en Windows 10/11 x64
-1. Descaga el último lanzamiento [Descargar](https://github.com/eljedidev/wear-link/releases/tag/1.4.2)
+1. Descarga el último lanzamiento [Descargar](https://github.com/eljedidev/wear-link/releases/tag/1.4.2)
 2. Descomprime el archivo en una carpeta
-3- Ejecuta el acceso directo
+3. Ejecuta el acceso directo
 
 ## Instalación en Windows 10/11 x64
 1. Instala [git](https://git-scm.com/download/win)
